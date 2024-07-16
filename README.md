@@ -1,1 +1,2 @@
-$ FaucetMC
+# FaucetMC
+i was bored
